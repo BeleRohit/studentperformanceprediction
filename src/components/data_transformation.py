@@ -19,7 +19,7 @@ from src.utils import save_object
 @dataclass
 class DataTransformationConfig:
     preprocessor_obj_file_path = os.path.join ('artifacts', 'preprocessor_obj.pkl')
-    model_file_path = os.path.join ('artifacts', 'model.pkl')
+    model_file_path = os.path.join ('artifacts', 'model_trainer_config.pkl')
 
 
 class DataTransformation:
