@@ -53,4 +53,5 @@ if __name__ == "__main__":
     train_arr,test_arr,_=data_transformation.initiate_data_transformation(train_data,test_data)
 
     modelTrainer=ModelTrainer ()
-    print(modelTrainer.initiate_model_trainer(train_arr,test_arr))
+    best_model_name,r2_score=modelTrainer.initiate_model_trainer(train_arr,test_arr)
+    print(f"Best models is {best_model_name} with an R-Squared value of {r2_score}.")
