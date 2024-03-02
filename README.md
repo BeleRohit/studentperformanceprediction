@@ -32,7 +32,7 @@ This project aims to provide valuable insights into student performance by lever
 ### Installation
 
 1. Clone the repository:
-    git clone [https://github.com/YourUsername/StudentPerformanceIndicator.git](https://github.com/BeleRohit/studentperformanceprediction)
+    git clone [https://github.com/BeleRohit/StudentPerformanceIndicator.git](https://github.com/BeleRohit/studentperformanceprediction)
 
 2. Install dependencies:
      pip install -r requirements.txt
