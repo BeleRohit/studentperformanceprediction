@@ -46,4 +46,4 @@ This project aims to provide valuable insights into student performance by lever
 1. app.py: Flask application for the web app.
 2. src/: Source code for machine learning models and other project components.
 3. templates/: HTML templates for the web app.
-4. static/: Static files (CSS, images, etc.) for the web app.
+
